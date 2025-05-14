@@ -140,7 +140,7 @@ hydra:
     - path: ''
       schema: structured
       provider: schema
-    output_dir: /scratch/lustre/home/maba8006/Tiny-SDnCNN/outputs/2025-05-14_16-55-43
+    output_dir: /scratch/lustre/home/maba8006/Tiny-SDnCNN/outputs/2025-05-14_17-44-15
     choices:
       hydra/env: default
       hydra/callbacks: null
